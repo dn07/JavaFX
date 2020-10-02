@@ -20,7 +20,7 @@ public class answer {
      */
     public static String[][] getAnswerqca()
 	{
-		        
+		// questions and answers        
          qca[0][0]="What displays from the following statements? String word = �abcde�; \n for(int i=0; i<4; i+=2) System.out.print(word[i]);\n";
          qca[0][1]="ac";
 
