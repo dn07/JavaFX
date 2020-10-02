@@ -134,6 +134,7 @@ public class answer {
      *
      * @return
      */
+	//function for second part
     public static String[][] getAnswerqca2()
 	{
 		        
@@ -191,6 +192,7 @@ public class answer {
      *
      * @return
      */
+	//function for third part
     public static String[][] getAnswerqca3()
 	{
 		        
